@@ -1,1 +1,1 @@
-pip install numpy matplotlib tensorflow
+pip install numpy matplotlib tensorflow scikit-learn
